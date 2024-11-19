@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="ABC USA" tvg-country="US" tvg-logo="https://i.postimg.cc/wvkFqJF9/live.jpg" tvg-chno="1" group-title="",ABC USA
+#EXTVLCOPT:http-user-agent=Android
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium51/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="A&E USA" tvg-country="US" tvg-logo="https://i.postimg.cc/wvkFqJF9/live.jpg" tvg-chno="2" group-title="",A&E USA
+#EXTVLCOPT:http-user-agent=Android
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium302/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="AMC USA" tvg-country="US" tvg-logo="https://i.postimg.cc/wvkFqJF9/live.jpg" tvg-chno="3" group-title="",AMC USA
+#EXTVLCOPT:http-user-agent=Android
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium303/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Animal Planet" tvg-country="US" tvg-logo="https://i.postimg.cc/wvkFqJF9/live.jpg" tvg-chno="4" group-title="",Animal Planet
+#EXTVLCOPT:http-user-agent=Android
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium304/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="ACC Network USA" tvg-country="US" tvg-logo="https://i.postimg.cc/wvkFqJF9/live.jpg" tvg-chno="5" group-title="",ACC Network USA
+#EXTVLCOPT:http-user-agent=Android
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium666/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="Astro SuperSport 1" tvg-country="US" tvg-logo="https://i.postimg.cc/wvkFqJF9/live.jpg" tvg-chno="6" group-title="",Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Android
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium123/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="Astro SuperSport 2" tvg-country="US" tvg-logo="https://i.postimg.cc/wvkFqJF9/live.jpg" tvg-chno="7" group-title="",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Android
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium124/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Astro SuperSport 3" tvg-country="US" tvg-logo="https://i.postimg.cc/wvkFqJF9/live.jpg" tvg-chno="8" group-title="",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Android
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+https://xyzdddd.mizhls.ru/lb/premium125/index.m3u8
